@@ -1,0 +1,4 @@
+baseURL = 'https://smarx.com.br/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+theme = 'lugo'
