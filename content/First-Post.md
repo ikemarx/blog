@@ -2,7 +2,7 @@
 date = '2025-01-18T14:40:48-04:00'
 draft = false
 title = 'First Post'
-tags = ['']
+tags = ['Updates']
 +++
 
 # Primeiro post!
