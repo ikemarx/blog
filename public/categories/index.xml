@@ -1,20 +1,65 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
 	<title>Blog do Henrique</title>
-	<link>http://localhost:1313/categories/</link>
+	<link>//localhost:1313/categories/</link>
 	<description>Recent content in Categories on Blog do Henrique</description>
 	<generator>Hugo -- gohugo.io</generator>
 	<language>pt-BR</language>
     
-        <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="//localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
 	
 	
 	<item>
+		<title>Curriculum Vitae</title>
+		<link>//localhost:1313/curriculum-vitae/</link>
+		<pubDate>Thu, 27 Feb 2025 22:35:56 -0400</pubDate>
+		
+		<guid>//localhost:1313/curriculum-vitae/</guid>
+		<description>&lt;h1 id=&#34;henrique-schneider-marx&#34;&gt;Henrique Schneider Marx&lt;/h1&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;contato&#34;&gt;Contato&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;mailto:h.s.m@usp.br&#34;&gt;h.s.m@usp.br&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;formação&#34;&gt;Formação&lt;/h2&gt;
+&lt;h3 id=&#34;escola-politécnica-da-universidade-de-são-paulo&#34;&gt;&lt;strong&gt;Escola Politécnica da Universidade de São Paulo&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Engenharia Elétrica&lt;/strong&gt;. Média ponderada com reprovações: 6.8 &lt;em&gt;(2023 – 2028)&lt;/em&gt;&lt;br&gt;
+A faculdade atua como minha principal - mas não única - fornecedora de &lt;em&gt;hard skills&lt;/em&gt;. Nesse sentido, adquiri uma base matemática densa, por meio das disciplinas de Álgebra Linear, Cálculo e Física. Vale ressaltar, também, que por ter cursado duas matérias do 4º ano de Engenharia Elétrica como optativas, aprendi os fundamentos de &lt;em&gt;machine learning&lt;/em&gt;, desde sua concepção até as CNNs.&lt;/p&gt;
+&lt;h3 id=&#34;turma-ita-poliedro-2020--2022&#34;&gt;&lt;strong&gt;Turma ITA Poliedro&lt;/strong&gt; &lt;em&gt;(2020 – 2022)&lt;/em&gt;&lt;/h3&gt;
+&lt;p&gt;São José dos Campos, SP&lt;br&gt;
+Em 2019, decidi que para fugir da mediocridade, precisava sair da minha cidade no interior do Mato Grosso e ir estudar em São José dos Campos. No cursinho, trabalhei duro por três anos para nivelar meu conhecimento acadêmico. Tive aulas com engenheiros do ITA, e aprendi a pensar como um deles. Criei uma base sólida nas áreas de Física, Matemática, Química e Interpretação de texto. Como consequência, obtive as seguintes honrarias:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Aprovação no Instituto Militar de Engenharia, Academia da Força Aérea, Engenharia Elétrica na Poli-USP, Engenharia de Computação na Unicamp&lt;/li&gt;
+&lt;li&gt;Medalha de ouro na Olimpíada Brasileira de Astronomia&lt;/li&gt;
+&lt;li&gt;2x medalha de prata na Olimpíada Matogrossense de Química&lt;/li&gt;
+&lt;li&gt;Menção honrosa na OBMEP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;escola-de-idiomas-ccaa-2013--2019&#34;&gt;&lt;strong&gt;Escola de Idiomas CCAA&lt;/strong&gt; &lt;em&gt;(2013 – 2019)&lt;/em&gt;&lt;/h3&gt;
+&lt;p&gt;Campo Verde, MT&lt;br&gt;
+Fiz o curso completo de Inglês do CCAA.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;experiência&#34;&gt;Experiência&lt;/h2&gt;
+&lt;h3 id=&#34;associação-atlética-acadêmica-politécnica-junho-2024--junho-2025&#34;&gt;&lt;strong&gt;Associação Atlética Acadêmica Politécnica&lt;/strong&gt; &lt;em&gt;(Junho 2024 – Junho 2025)&lt;/em&gt;&lt;/h3&gt;
+&lt;p&gt;São Paulo, SP&lt;br&gt;
+&lt;strong&gt;Diretor de Modalidade – Voleibol&lt;/strong&gt;&lt;br&gt;
+Como Diretor de Modalidade da Escola Politécnica da USP, adquiri uma ampla experiência em funções administrativas e financeiras. No campo financeiro, administrei o orçamento destinado à modalidade, monitorando despesas e receitas para assegurar uma gestão financeira equilibrada e responsável. Além disso, introduzi a elaboração de relatórios financeiros detalhados, que auxiliaram na tomada de decisões estratégicas e no planejamento de longo prazo. Meu papel como Diretor de Modalidade também exigia uma gestão de pessoas coerente.&lt;/p&gt;
+&lt;h3 id=&#34;laboratório-de-big-data-do-pcs-março-2024--presente&#34;&gt;&lt;strong&gt;Laboratório de Big Data do PCS&lt;/strong&gt; &lt;em&gt;(Março 2024 – Presente)&lt;/em&gt;&lt;/h3&gt;
+&lt;p&gt;São Paulo, SP&lt;br&gt;
+&lt;strong&gt;Assistente de Administração de Servidores Linux&lt;/strong&gt;&lt;br&gt;
+Ajudei no &lt;em&gt;setup&lt;/em&gt; inicial de um dos servidores do Laborátorio de Big Data. Tal experiência me proporcionou conhecimentos em Linux.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;habilidades--interesses&#34;&gt;Habilidades &amp;amp; Interesses&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Técnico:&lt;/strong&gt; Dois anos de experiência com Linux; Git básico; Docker básico; C e C++ avançado; Python, TensorFlow, Pytorch e SQL básico.
+&lt;strong&gt;Linguagem:&lt;/strong&gt; Português nativo, Inglês avançado (C1) e Alemão Básico (A1).
+&lt;strong&gt;Interesses:&lt;/strong&gt; Gosto de usar as ferramentas que tenho à disposição para tentar melhorar meus resultados, seja no videogame, nos esportes ou na vida.&lt;/p&gt;
+</description>
+	</item>
+	
+	<item>
 		<title>First Post</title>
-		<link>http://localhost:1313/first-post/</link>
+		<link>//localhost:1313/first-post/</link>
 		<pubDate>Sat, 18 Jan 2025 14:40:48 -0400</pubDate>
 		
-		<guid>http://localhost:1313/first-post/</guid>
+		<guid>//localhost:1313/first-post/</guid>
 		<description>&lt;h1 id=&#34;primeiro-post&#34;&gt;Primeiro post!&lt;/h1&gt;
 &lt;p&gt;Este site será usado para compartilhar minhas ideias e pensamentos. Tudo aqui pode mudar, inclusive este post será alterado em breve.&lt;/p&gt;
 </description>

@@ -15,9 +15,9 @@ h.s.m@usp.br
 
 ## Formação
 
-### **Escola Politécnica da Universidade de São Paulo**  
-**Engenharia Elétrica**. Média ponderada com reprovações: 6.8 *(2023 – 2028)*  
-A faculdade atua como minha principal - mas não única - fornecedora de *hard skills*. Nesse sentido, adquiri uma base matemática densa, por meio das disciplinas de Álgebra Linear, Cálculo e Física. Vale ressaltar, também, que por ter cursado duas matérias do 4º ano de Engenharia Elétrica como optativas, aprendi os fundamentos de *machine learning*, desde sua concepção até as CNNs.
+### **Escola Politécnica da Universidade de São Paulo** *(2023 – 2028)* 
+**Engenharia Elétrica**. Média ponderada com reprovações: 6.8  
+A faculdade, para mim, é o principal meio de aprendizagem dos fundamentos: cálculo, álgebra, física, e computação. Cursei também matérias optativas envolvendo data science, machine learning e IoT. Gosto de aprender o essencial na faculdade, para me aprofundar então nos conhecimentos de meu interesse por conta própria.
 
 ### **Turma ITA Poliedro** *(2020 – 2022)*  
 São José dos Campos, SP  
@@ -36,20 +36,20 @@ Fiz o curso completo de Inglês do CCAA.
 
 ## Experiência
 
-### **Associação Atlética Acadêmica Politécnica** *(Junho 2024 – Junho 2025)*  
+### **Associação Atlética Acadêmica Politécnica** *(2024 – 2025)*  
 São Paulo, SP  
 **Diretor de Modalidade – Voleibol**  
 Como Diretor de Modalidade da Escola Politécnica da USP, adquiri uma ampla experiência em funções administrativas e financeiras. No campo financeiro, administrei o orçamento destinado à modalidade, monitorando despesas e receitas para assegurar uma gestão financeira equilibrada e responsável. Além disso, introduzi a elaboração de relatórios financeiros detalhados, que auxiliaram na tomada de decisões estratégicas e no planejamento de longo prazo. Meu papel como Diretor de Modalidade também exigia uma gestão de pessoas coerente.
 
-### **Laboratório de Big Data do PCS** *(Março 2024 – Presente)*  
+### **Laboratório de Big Data do PCS** *(2024 – 2025)*
 São Paulo, SP  
-**Assistente de Administração de Servidores Linux**  
-Ajudei no *setup* inicial de um dos servidores do Laborátorio de Big Data. Tal experiência me proporcionou conhecimentos em Linux.
+**Assistente de Administração de Servidores Linux**
+Me voluntariei para ajudar no *setup* e administração dos servidores
 
 ---
 
 ## Habilidades & Interesses
 
-**Técnico:** Dois anos de experiência com Linux; Git básico; Docker básico; C e C++ avançado; Python, TensorFlow, Pytorch e SQL básico.
-**Linguagem:** Português nativo, Inglês avançado (C1) e Alemão Básico (A1).
+**Técnico:** Dois anos de experiência com Linux; Git básico; Docker básico; C e C++ avançado; Python, TensorFlow, Pytorch e SQL básico.  
+**Linguagem:** Português nativo, Inglês avançado (C1) e Alemão Básico (A1).  
 **Interesses:** Gosto de usar as ferramentas que tenho à disposição para tentar melhorar meus resultados, seja no videogame, nos esportes ou na vida.

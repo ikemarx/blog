@@ -1,4 +1,4 @@
-baseURL = 'https://www.smarx.com.br/'
+baseURL = 'smarx.com.br'
 languageCode = 'pt-BR'
 title = 'Blog do Henrique'
 theme = 'lugo'

@@ -1,10 +1,8 @@
 +++
 date = '2025-01-19T01:03:03-04:00'
-title = 'Bem-vindo ao Blog do Henrique'
+title = 'Blog do Henrique'
 +++
 
-![Eu](profilepic.jpeg)
+Welcome to my website! This website's purpose is to document my adventures (at least the ones I am willing to tell everyone)
 
-oi sou o **Henrique** !
-
-ainda estou aprendendo a mexer no hugo, então o blog no momento estará bem _barebones_.
+![this is me](profilepic.jpeg)

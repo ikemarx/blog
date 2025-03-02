@@ -2,18 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>//localhost:1313/curriculum-vitae/</loc>
+    <lastmod>2025-02-27T22:35:56-04:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/</loc>
     <lastmod>2025-01-19T01:03:03-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/first-post/</loc>
+    <loc>//localhost:1313/first-post/</loc>
     <lastmod>2025-01-18T14:40:48-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>//localhost:1313/tags/</loc>
     <lastmod>2025-01-18T14:40:48-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/updates/</loc>
+    <loc>//localhost:1313/tags/updates/</loc>
     <lastmod>2025-01-18T14:40:48-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>//localhost:1313/categories/</loc>
   </url>
 </urlset>
