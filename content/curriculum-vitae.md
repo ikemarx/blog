@@ -6,18 +6,21 @@ title = 'Curriculum Vitae'
 
 # Henrique Schneider Marx
 
+![this is me](profilepic.jpeg)
+
 ---
 
 ### Contato
-h.s.m@usp.br
+h.s.m@usp.br  
+https://github.com/ikemarx
 
 ---
 
 ## Formação
 
 ### **Escola Politécnica da Universidade de São Paulo** *(2023 – 2028)* 
-**Engenharia Elétrica**. Média ponderada com reprovações: 6.8  
-A faculdade, para mim, é o principal meio de aprendizagem dos fundamentos: cálculo, álgebra, física, e computação. Cursei também matérias optativas envolvendo data science, machine learning e IoT. Gosto de aprender o essencial na faculdade, para me aprofundar então nos conhecimentos de meu interesse por conta própria.
+**Engenharia Elétrica**. Média ponderada com reprovações: 6.6  
+A faculdade, para mim, é o principal meio de aprendizagem dos fundamentos: cálculo, álgebra, física, e computação. Cursei também matérias optativas envolvendo data science, machine learning e IoT. Gosto de aprender o essencial na faculdade, para me aprofundar então nos conhecimentos de meu interesse por conta própria. 
 
 ### **Turma ITA Poliedro** *(2020 – 2022)*  
 São José dos Campos, SP  
@@ -44,7 +47,7 @@ Como Diretor de Modalidade da Escola Politécnica da USP, adquiri uma ampla expe
 ### **Laboratório de Big Data do PCS** *(2024 – 2025)*
 São Paulo, SP  
 **Assistente de Administração de Servidores Linux**
-Me voluntariei para ajudar no *setup* e administração dos servidores
+Me voluntariei para ajudar no *setup* e administração dos servidores do laboratório.
 
 ---
 
