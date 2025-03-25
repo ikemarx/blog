@@ -6,7 +6,7 @@ title = 'Curriculum Vitae'
 
 # Henrique Schneider Marx
 
-![this is me](/static/profilepic.jpeg)
+![this is me](profilepic.jpeg)
 
 ---
 
