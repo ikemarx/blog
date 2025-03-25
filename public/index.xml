@@ -17,14 +17,16 @@
 		
 		<guid>//localhost:1313/curriculum-vitae/</guid>
 		<description>&lt;h1 id=&#34;henrique-schneider-marx&#34;&gt;Henrique Schneider Marx&lt;/h1&gt;
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/eu.jpeg&#34; alt=&#34;this is me&#34;&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;h3 id=&#34;contato&#34;&gt;Contato&lt;/h3&gt;
-&lt;p&gt;&lt;a href=&#34;mailto:h.s.m@usp.br&#34;&gt;h.s.m@usp.br&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;mailto:h.s.m@usp.br&#34;&gt;h.s.m@usp.br&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;https://github.com/ikemarx&#34;&gt;https://github.com/ikemarx&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;formação&#34;&gt;Formação&lt;/h2&gt;
 &lt;h3 id=&#34;escola-politécnica-da-universidade-de-são-paulo-2023--2028&#34;&gt;&lt;strong&gt;Escola Politécnica da Universidade de São Paulo&lt;/strong&gt; &lt;em&gt;(2023 – 2028)&lt;/em&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;Engenharia Elétrica&lt;/strong&gt;. Média ponderada com reprovações: 6.8&lt;br&gt;
-A faculdade, para mim, é o principal meio de aprendizagem dos fundamentos: cálculo, álgebra, física, e computação. Cursei também matérias optativas envolvendo data science, machine learning e IoT. Gosto de aprender o essencial na faculdade, para me aprofundar então nos conhecimentos de meu interesse por conta própria.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Engenharia Elétrica&lt;/strong&gt;. Média ponderada com reprovações: 6.6&lt;br&gt;
+A faculdade, para mim, é o principal meio de aprendizagem dos fundamentos: cálculo, álgebra, física, e computação. Cursei também matérias optativas envolvendo data science, machine learning e IoT. Um dos projetos favoritos que fiz na universidade foi uma Rede Neural Convolucional que prevê o melhor lance em uma partida de xadrez. Gosto de aprender o essencial na faculdade, para me aprofundar, então, nos conhecimentos de meu interesse por conta própria.&lt;/p&gt;
 &lt;h3 id=&#34;turma-ita-poliedro-2020--2022&#34;&gt;&lt;strong&gt;Turma ITA Poliedro&lt;/strong&gt; &lt;em&gt;(2020 – 2022)&lt;/em&gt;&lt;/h3&gt;
 &lt;p&gt;São José dos Campos, SP&lt;br&gt;
 Em 2019, decidi que para fugir da mediocridade, precisava sair da minha cidade no interior do Mato Grosso e ir estudar em São José dos Campos. No cursinho, trabalhei duro por três anos para nivelar meu conhecimento acadêmico. Tive aulas com engenheiros do ITA, e aprendi a pensar como um deles. Criei uma base sólida nas áreas de Física, Matemática, Química e Interpretação de texto. Como consequência, obtive as seguintes honrarias:&lt;/p&gt;
@@ -46,23 +48,12 @@ Como Diretor de Modalidade da Escola Politécnica da USP, adquiri uma ampla expe
 &lt;h3 id=&#34;laboratório-de-big-data-do-pcs-2024--2025&#34;&gt;&lt;strong&gt;Laboratório de Big Data do PCS&lt;/strong&gt; &lt;em&gt;(2024 – 2025)&lt;/em&gt;&lt;/h3&gt;
 &lt;p&gt;São Paulo, SP&lt;br&gt;
 &lt;strong&gt;Assistente de Administração de Servidores Linux&lt;/strong&gt;
-Me voluntariei para ajudar no &lt;em&gt;setup&lt;/em&gt; e administração dos servidores&lt;/p&gt;
+Me voluntariei para ajudar no &lt;em&gt;setup&lt;/em&gt; e administração dos servidores do laboratório.&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;habilidades--interesses&#34;&gt;Habilidades &amp;amp; Interesses&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;Técnico:&lt;/strong&gt; Dois anos de experiência com Linux; Git básico; Docker básico; C e C++ avançado; Python, TensorFlow, Pytorch e SQL básico.&lt;br&gt;
 &lt;strong&gt;Linguagem:&lt;/strong&gt; Português nativo, Inglês avançado (C1) e Alemão Básico (A1).&lt;br&gt;
 &lt;strong&gt;Interesses:&lt;/strong&gt; Gosto de usar as ferramentas que tenho à disposição para tentar melhorar meus resultados, seja no videogame, nos esportes ou na vida.&lt;/p&gt;
-</description>
-	</item>
-	
-	<item>
-		<title>First Post</title>
-		<link>//localhost:1313/first-post/</link>
-		<pubDate>Sat, 18 Jan 2025 14:40:48 -0400</pubDate>
-		
-		<guid>//localhost:1313/first-post/</guid>
-		<description>&lt;h1 id=&#34;primeiro-post&#34;&gt;Primeiro post!&lt;/h1&gt;
-&lt;p&gt;Este site será usado para compartilhar minhas ideias e pensamentos. Tudo aqui pode mudar, inclusive este post será alterado em breve.&lt;/p&gt;
 </description>
 	</item>
 	
