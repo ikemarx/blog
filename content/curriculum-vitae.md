@@ -6,7 +6,7 @@ title = 'Curriculum Vitae'
 
 # Henrique Schneider Marx
 
-![this is me](profilepic.jpeg)
+![this is me](/static/profilepic.jpeg)
 
 ---
 
@@ -20,7 +20,7 @@ https://github.com/ikemarx
 
 ### **Escola Politécnica da Universidade de São Paulo** *(2023 – 2028)* 
 **Engenharia Elétrica**. Média ponderada com reprovações: 6.6  
-A faculdade, para mim, é o principal meio de aprendizagem dos fundamentos: cálculo, álgebra, física, e computação. Cursei também matérias optativas envolvendo data science, machine learning e IoT. Gosto de aprender o essencial na faculdade, para me aprofundar então nos conhecimentos de meu interesse por conta própria. 
+A faculdade, para mim, é o principal meio de aprendizagem dos fundamentos: cálculo, álgebra, física, e computação. Cursei também matérias optativas envolvendo data science, machine learning e IoT. Um dos projetos favoritos que fiz na universidade foi uma Rede Neural Convolucional que prevê o melhor lance em uma partida de xadrez. Gosto de aprender o essencial na faculdade, para me aprofundar, então, nos conhecimentos de meu interesse por conta própria.
 
 ### **Turma ITA Poliedro** *(2020 – 2022)*  
 São José dos Campos, SP  
