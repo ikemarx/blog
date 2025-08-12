@@ -1,0 +1,34 @@
+# ===============================
+# Hugo .gitignore
+# ===============================
+
+# Diretório de saída do Hugo
+/public/
+
+# Cache do Hugo
+/resources/
+hugo_stats.json
+.hugo_build.lock
+
+# Logs e arquivos temporários
+*.log
+*.tmp
+*.swp
+*~
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Configurações locais de IDEs/editores
+.vscode/
+.idea/
+
+# Node (caso use JS/CSS no pipeline do Hugo)
+node_modules/
+package-lock.json
+yarn.lock
+
+# Arquivos de build de outras ferramentas
+dist/
+.cache/
