@@ -1,0 +1,63 @@
+{{ define "main" }}
+<article class="post">
+    <header class="post-header">
+        <h1 class="post-title">{{ .Title }}</h1>
+    </header>
+    <div class="post-content">
+        <div style="text-align: center; margin-bottom: 2rem;">
+            <img src="{{ "images/icon128.png" | absURL }}" alt="Ícone da Extensão CalendarUSP" style="max-width: 128px; margin-bottom: 1rem;">
+            <p>Uma extensão de navegador simples e eficiente para extrair sua grade horária do JúpiterWeb (USP) e importá-la facilmente para seu calendário preferido.</p>
+        </div>
+
+        <div style="text-align: center; padding: 1.5rem 0; border-top: 1px solid #eee; border-bottom: 1px solid #eee; margin-bottom: 2rem;">
+            <h2 style="margin-bottom: 1.5rem;">Adicione ao seu navegador</h2>
+            <div style="display: flex; justify-content: center; align-items: center; gap: 1.5rem; flex-wrap: wrap;">
+                <a href="https://addons.mozilla.org/firefox/addon/calendarusp/" target="_blank" rel="noopener noreferrer" title="Adicionar ao Firefox">
+                    <img src="{{ "/calendarusp/firefox.svg" | absURL }}" alt="Disponível para Firefox" style="height: 64px;">
+                </a>
+                <a href="https://chromewebstore.google.com/detail/calendarusp/hahlhcelhcokmpgficmnbcnlacikacjb" target="_blank" rel="noopener noreferrer" title="Adicionar ao Chrome">
+                    <img src="{{ "/calendarusp/chrome.svg" | absURL }}" alt="Disponível para Google Chrome" style="height: 64px;">
+                </a>
+                <a href="https://chromewebstore.google.com/detail/calendarusp/hahlhcelhcokmpgficmnbcnlacikacjb" target="_blank" rel="noopener noreferrer" title="Adicionar ao Edge">
+                    <img src="{{ "/calendarusp/edge.svg" | absURL }}" alt="Disponível para Microsoft Edge" style="height: 64px;">
+                </a>
+            </div>
+        </div>
+
+        <h2>Funcionalidades</h2>
+        <ul>
+            <li><strong>Extração Automática:</strong> Extrai as disciplinas, turmas e horários diretamente da sua página de grade horária no JúpiterWeb.</li>
+            <li><strong>Exportação Universal (.ics):</strong> Gera um único arquivo <code>.ics</code> contendo todas as suas aulas, com recorrência semanal para o semestre. Compatível com Google Agenda, Outlook, Apple Calendar e outros.</li>
+            <li><strong>Links Rápidos:</strong> Para cada aula, cria links diretos para adicionar o evento ao <strong>Google Agenda</strong> e <strong>Outlook</strong>.</li>
+            <li><strong>Interface Limpa:</strong> Uma janela pop-up simples para uma experiência de usuário sem complicações.</li>
+        </ul>
+
+        <h2>Como Usar</h2>
+        <ol>
+            <li><strong>Instale a extensão</strong> no seu navegador usando um dos links acima.</li>
+            <li><strong>Acesse</strong> sua página de <strong><a href="https://uspdigital.usp.br/jupiterweb/gradeHoraria" target="_blank" rel="noopener">Grade Horária</a></strong> no JúpiterWeb.</li>
+            <li>Com a página da grade totalmente visível, <strong>clique no ícone da extensão</strong> na barra de ferramentas do navegador.</li>
+            <li>Na janela que se abrir, clique no botão <strong>"Extrair Grade Horária"</strong>.</li>
+            <li>Suas aulas serão listadas. Agora você pode:
+                <ul>
+                    <li>Clicar em <strong>"Exportar Tudo (.ics)"</strong> para baixar o arquivo com todas as aulas.</li>
+                    <li>Clicar nos links <strong>"Google"</strong> ou <strong>"Outlook"</strong> em uma aula específica para adicioná-la individualmente.</li>
+                </ul>
+            </li>
+        </ol>
+
+        <h3>Não sabe como importar o arquivo <code>.ics</code>?</h3>
+        <p>Se você não sabe como importar um arquivo <code>.ics</code> para o seu calendário, aqui estão os guias oficiais:</p>
+        <ul>
+            <li><a href="https://support.google.com/calendar/answer/37118?hl=pt" target="_blank" rel="noopener">Guia do Google Agenda</a></li>
+            <li><a href="https://support.microsoft.com/pt-br/office/importar-ou-subscrever-um-calend%C3%A1rio-no-outlook-com-cff1429c-5af6-41ec-a5b4-74f2c278e98c" target="_blank" rel="noopener">Guia do Microsoft Outlook</a></li>
+            <li><a href="https://support.apple.com/pt-br/guide/calendar/icl1023/mac" target="_blank" rel="noopener">Guia do Apple Calendar (iCloud)</a></li>
+        </ul>
+
+        <hr>
+        <p style="text-align: center; font-size: 0.9em;">
+            Este projeto é distribuído sob a Licença MIT. Veja o arquivo <a href="{{ "/calendarusp/LICENSE" | absURL }}">LICENSE</a> para mais detalhes.
+        </p>
+    </div>
+</article>
+{{ end }}
